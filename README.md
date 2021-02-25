@@ -1,8 +1,6 @@
 # Update-Notes
 Read the latest TacoByte Update , including the old versions.
 
-What we are workign on right now - A Discord Login system in the website
-
 #Current Website(Always being updated constantly)
 -Update pending
 
