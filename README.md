@@ -1,6 +1,8 @@
 # Update-Notes
 Read the latest TacoByte Update , including the old versions.
 
+-Added user profiles
+
 #Current Website(Always being updated constantly)
 -Update pending
 
