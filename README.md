@@ -16,5 +16,3 @@ Read the latest TacoByte Update , including the old versions.
 #Version 0.0.1(Downloadable Version)
 
 -The first version and update of TacoByte!
-
-yo is this discord webhook working?
